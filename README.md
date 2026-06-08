@@ -1,74 +1,63 @@
-# 👋 Hi, I'm Duong Thai Minh (Ferez)
+# Duong Thai Minh (Ferez)
 
-Welcome to my GitHub profile! I'm a Software Engineer focused on algorithms, competitive programming, and building scalable backend systems.
+Software Engineer focused on backend systems, distributed architecture, and competitive programming.
 
-## 🚀 About Me
+## About
 
-* 🌱 Strong in algorithms, microservices architecture, and backend system design
-* 💬 Ask me about competitive programming, system design, backend engineering
-* 📫 Reach me: [LinkedIn](https://linkedin.com/in/ferez96)
+- Backend engineering, microservices, and system design
+- Competitive programming and algorithmic problem solving
+- Reach me: [LinkedIn](https://linkedin.com/in/ferez96)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferez96\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferez96\&layout=compact\&theme=radical\&hide_border=true)
-
-## 🌟 Featured Projects
+## Projects
 
 ### [Career Path 2026](https://github.com/ferez96/career-path-2026)
 
-A structured career system to plan, track, and execute long-term growth.
+Structured system for planning and executing long-term engineering career growth.
 
-* Design career roadmap across 6–12–24 month horizons
-* Track weekly/monthly execution and skill progress
-* Build personal benchmarks from real job descriptions (JD-driven)
-* Identify skill gaps and turn them into actionable learning plans
-* Combine DSA, system design, and problem solving into one execution loop
-
-Built for myself and others starting out or navigating unstable job markets.
+- Roadmap across 6–12–24 month horizons
+- JD-driven skill gap analysis and learning plans
+- Weekly execution tracking tied to DSA, system design, and problem solving
 
 ---
 
 ### [Progames](https://github.com/ferez96/progames)
 
-A contest and training framework for competitive programming.
+Contest and training framework for competitive programming.
 
-* Designed for running algorithm contests and practice sessions
-* Focus on scalability and extensibility for different contest formats
-* Helps simulate real competitive environments
+- Runs algorithm contests and practice sessions
+- Extensible for different contest formats
+- Simulates real competitive environments
 
 ---
 
 ### [Road2BlackRed](https://github.com/ferez96/road2blackred)
 
-A structured journey to improve Codeforces rating.
+Structured approach to improving Codeforces rating.
 
-* Tracks progression toward higher rating tiers
-* Documents learning strategy, problem patterns, and mistakes
-* Focus on deliberate practice instead of random grinding
+- Tracks progression toward higher tiers
+- Documents problem patterns, learning strategy, and mistakes
+- Deliberate practice over random grinding
 
 ---
 
 ### [Axon Redaction](https://axon.com/products/redaction)
 
-Working on backend microservices for a real-world production system.
+Backend microservices for a production-grade redaction platform.
 
-* Focus on system design, scalability, and reliability
-* Involves algorithmic thinking applied to large-scale data processing
-* Production-grade engineering practices
+- Large-scale data processing with algorithmic foundations
+- System design focused on scalability and reliability
 
-## 📈 Contribution Graph
+## Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ferez96\&theme=radical\&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ferez96&theme=radical&hide_border=true)
 
-## 💡 Current Focus
+## Current Focus
 
-* [ ] Building high-quality backend systems
-* [ ] Reaching higher tiers in competitive programming
-* [ ] Strengthening system design and architecture skills
-* [ ] Contributing to impactful projects
+- Distributed systems and large-scale backend architecture
+- Staff-level system design: capacity planning, fault tolerance, observability
+- Competitive programming — hard graph and DP problem patterns
+- Codeforces rating progression
 
 ---
 
-⭐ From [ferez96](https://github.com/ferez96)
+[ferez96](https://github.com/ferez96)
